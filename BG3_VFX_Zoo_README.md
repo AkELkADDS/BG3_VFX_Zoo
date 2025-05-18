@@ -1,7 +1,6 @@
 BG3 VFX Zoo
 
-ModIO
-Nexus
+Not for Publish
 
 DGB_VFX_Zoo_6ae474af-7840-db35-7a66-e94573605959
 
