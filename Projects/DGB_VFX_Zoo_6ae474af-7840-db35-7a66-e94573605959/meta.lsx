@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="6ae474af-7840-db35-7a66-e94573605959"/>
+            <attribute id="Name" type="LSString" value="DGB_VFX_Zoo"/>
+            <attribute id="UUID" type="LSString" value="51f3613b-fc46-feae-1a75-bcc1c121685e"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
